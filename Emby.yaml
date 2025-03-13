@@ -46,7 +46,9 @@ payload:
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
   - DOMAIN-SUFFIX,line.emby.men
   - DOMAIN-SUFFIX,mickeycloud.com
+  - DOMAIN-SUFFIX,mini.jmsuper.com
   - DOMAIN-SUFFIX,movie.xeton.dev
+  - DOMAIN-SUFFIX,nano.jmsuper.com
   - DOMAIN-SUFFIX,ntt1.jmsooo.com
   - DOMAIN-SUFFIX,ohhhh.org
   - DOMAIN-SUFFIX,peachmv.me
@@ -55,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,poloemby.xyz
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,servers.xeton.dev
+  - DOMAIN-SUFFIX,term.wtf
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
