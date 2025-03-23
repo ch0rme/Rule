@@ -143,6 +143,7 @@ DOMAIN-SUFFIX,cctvpro.com.cn
 DOMAIN-SUFFIX,chinaepg.cn
 DOMAIN-SUFFIX,chinalive.com
 DOMAIN-SUFFIX,citv.net.cn
+DOMAIN-SUFFIX,clubmed.com.cn
 DOMAIN-SUFFIX,cnms.net.cn
 DOMAIN-SUFFIX,cntv.cn
 DOMAIN-SUFFIX,cntv.com.cn
@@ -307,7 +308,6 @@ DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,qiyi
-IP-CIDR,18.65.179.30,no-resolve
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.132/31,no-resolve
