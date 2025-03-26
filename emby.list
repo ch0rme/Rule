@@ -51,10 +51,7 @@ DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,xmsl.org
-DOMAIN-SUFFIX,epicgames.ink
-DOMAIN-SUFFIX,jmsuper.com
 IP-CIDR,104.21.65.211/32,no-resolve
 IP-CIDR,172.67.167.18/32,no-resolve
 IP-CIDR,104.17.81.138/32,no-resolve
 IP-CIDR,104.16.0.192/32,no-resolve
-IP-CIDR,117.143.20.68/32,no-resolve
