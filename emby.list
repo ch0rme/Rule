@@ -51,9 +51,3 @@ DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,xmsl.org
-IP-CIDR,104.21.65.211/32,no-resolve
-IP-CIDR,172.67.167.18/32,no-resolve
-IP-CIDR,104.17.40.11/32,no-resolve
-IP-CIDR,104.16.0.192/32,no-resolve
-IP-CIDR,104.17.81.138/32,no-resolve
-IP-CIDR,104.16.0.98/32,no-resolve
