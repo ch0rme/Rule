@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,assets1.xboxlive.com
