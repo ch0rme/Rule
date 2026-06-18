@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN,static-prod.us-central1-fox-prod.gcp.maestro.io
 DOMAIN,fox-master-020.firebaseio.com
+DOMAIN,litix.digitalvideoplatform.com
+DOMAIN,prod.api.digitalvideoplatform.com
+DOMAIN,prod.mcvbs.foxdtc.digitalvideoplatform.com
