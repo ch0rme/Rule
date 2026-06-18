@@ -1,3 +1,4 @@
+IP-CIDR,147.90.41.73,no-resolve
 DOMAIN,foxdtc-video.akamaized.net
 DOMAIN,api.fox
 DOMAIN,ent.fox.com
@@ -8,3 +9,7 @@ DOMAIN,config.foxplus.com
 DOMAIN,prod-bifrost-api.foxplus.com
 DOMAIN,prod1.fes.kts.fox
 DOMAIN,prod.player.fox.digitalvideoplatform.com
+DOMAIN,static-media.fox.com
+DOMAIN,images.api.fox.com
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxplus.com
