@@ -14,3 +14,4 @@ DOMAIN,images.api.fox.com
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN,static-prod.us-central1-fox-prod.gcp.maestro.io
+DOMAIN,fox-master-020.firebaseio.com
