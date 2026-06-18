@@ -13,6 +13,10 @@ DOMAIN,static-media.fox.com
 DOMAIN,images.api.fox.com
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,gcp.maestro.io
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,digitalvideoplatform.com
+DOMAIN-SUFFIX,api.fox
 DOMAIN,static-prod.us-central1-fox-prod.gcp.maestro.io
 DOMAIN,fox-master-020.firebaseio.com
 DOMAIN,litix.digitalvideoplatform.com
