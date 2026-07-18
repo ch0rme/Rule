@@ -22,7 +22,24 @@ DOMAIN,fox-master-020.firebaseio.com
 DOMAIN,litix.digitalvideoplatform.com
 DOMAIN,prod.api.digitalvideoplatform.com
 DOMAIN,prod.mcvbs.foxdtc.digitalvideoplatform.com
-DOMAIN-WILDCARD,fox-master-*.firebaseio.com
-# DOMAIN,fox-master-005.firebaseio.com
-# DOMAIN,fox-master-014.firebaseio.com
-# DOMAIN,fox-master-011.firebaseio.com
+DOMAIN,fox-master-001.firebaseio.com
+DOMAIN,fox-master-002.firebaseio.com
+DOMAIN,fox-master-003.firebaseio.com
+DOMAIN,fox-master-004.firebaseio.com
+DOMAIN,fox-master-005.firebaseio.com
+DOMAIN,fox-master-006.firebaseio.com
+DOMAIN,fox-master-007.firebaseio.com
+DOMAIN,fox-master-008.firebaseio.com
+DOMAIN,fox-master-009.firebaseio.com
+DOMAIN,fox-master-010.firebaseio.com
+DOMAIN,fox-master-011.firebaseio.com
+DOMAIN,fox-master-012.firebaseio.com
+DOMAIN,fox-master-013.firebaseio.com
+DOMAIN,fox-master-014.firebaseio.com
+DOMAIN,fox-master-015.firebaseio.com
+DOMAIN,fox-master-016.firebaseio.com
+DOMAIN,fox-master-017.firebaseio.com
+DOMAIN,fox-master-018.firebaseio.com
+DOMAIN,fox-master-019.firebaseio.com
+DOMAIN,fox-master-020.firebaseio.com
+DOMAIN,fox-master-021.firebaseio.com
