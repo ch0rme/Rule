@@ -22,7 +22,7 @@ DOMAIN,fox-master-020.firebaseio.com
 DOMAIN,litix.digitalvideoplatform.com
 DOMAIN,prod.api.digitalvideoplatform.com
 DOMAIN,prod.mcvbs.foxdtc.digitalvideoplatform.com
-DOMAIN-REGEX,^fox-master-[0-9]{3}\.firebaseio\.com$
+DOMAIN-WILDCARD,fox-master-???.firebaseio.com
 # DOMAIN,fox-master-005.firebaseio.com
 # DOMAIN,fox-master-014.firebaseio.com
 # DOMAIN,fox-master-011.firebaseio.com
