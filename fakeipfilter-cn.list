@@ -1,117 +1,139 @@
-#LAN / 私有域
-localhost
-*.lan
-*.localdomain
-*.example
-*.invalid
-*.localhost
-*.test
-*.local
-*.home.arpa
-*.direct
-PDC._msDCS.*.*
-DC._msDCS.*.*
-GC._msDCS.*.*
-*.router.asus.com
-#NTP
-time1.cloud.tencent.com
-time.*.edu.cn
-*.time.edu.cn
-*.ntp.org.cn
-ntp.aliyun.com
-ntp1.aliyun.com
-ntp2.aliyun.com
-ntp3.aliyun.com
-ntp4.aliyun.com
-ntp5.aliyun.com
-ntp6.aliyun.com
-ntp7.aliyun.com
-ntp.tencent.com
-ntp1.tencent.com
-ntp2.tencent.com
-ntp3.tencent.com
-ntp4.tencent.com
-ntp5.tencent.com
-cn.pool.ntp.org
-#运营商一键登录
-id6.me
-open.e.189.cn
-hmrz.wo.cn
-nishub1.10010.com
-enrichgw.10010.com
-*.cmpassport.com
-*.wosms.cn
-#金融/生活
-app.yinxiang.com
-+.cmbchina.com
-+.cmbimg.com
-*.pingan.com.cn
-*.10099.com.cn
-*.microdone.cn
-*.jegotrip.com.cn
-#QQ/微信登录
-localhost.ptlogin2.qq.com
-localhost.sec.qq.com
-localhost.*.weixin.qq.com
-#网易云音乐
-music.163.com
-*.music.163.com
-*.126.net
-#百度音乐
-music.taihe.com
-#酷狗音乐
-songsearch.kugou.com
-trackercdn.kugou.com
-#酷我音乐
-*.kuwo.cn
-#QQ音乐
-y.qq.com
-streamoc.music.tc.qq.com
-mobileoc.music.tc.qq.com
-isure.stream.qqmusic.qq.com
-dl.stream.qqmusic.qq.com
-aqqmusic.tc.qq.com
-*.y.qq.com
-#虾米音乐
-*.xiami.com
-#咪咕音乐
-music.migu.cn
-*.music.migu.cn
-#游戏国服
-ff.dorado.sdo.com
-+.battlenet.com.cn
-+.wotgame.cn
-+.wggames.cn
-+.wowsgame.cn
-+.gcloudcs.com
-+.gcloudsdk.com
-*.blzstatic.cn
-*.ff14.sdo.com
-#Apple 软件更新（国内 CDN）
-mesu.apple.com
-swscan.apple.com
-swdownload.apple.com
-swcdn.apple.com
-swdist.apple.com
-#Bilibili
-*.mcdn.bilivideo.cn
-#迅雷
-+.sandai.net
-+.n0808.com
-#UU 加速器
-ps.res.netease.com
-+.uu.163.com
-#小米
-+.market.xiaomi.com
-#花生壳
-+.oray.com
-+.orayimg.com
-#STUN 国内
-+.stun.*.cn
-+.stun.*.*.cn
-+.stun.*.*.*.cn
-+.stun.*.*.*.*.cn
-stun.*.cn
-stun.*.*.cn
-#Steam 国内 CDN
-alibaba.cdn.steampipe.steamcontent.com
+# LAN / 私有域
+DOMAIN,localhost
+DOMAIN-WILDCARD,*.lan
+DOMAIN-WILDCARD,*.localdomain
+DOMAIN-WILDCARD,*.example
+DOMAIN-WILDCARD,*.invalid
+DOMAIN-WILDCARD,*.localhost
+DOMAIN-WILDCARD,*.test
+DOMAIN-WILDCARD,*.local
+DOMAIN-WILDCARD,*.home.arpa
+DOMAIN-WILDCARD,*.direct
+DOMAIN-WILDCARD,PDC._msDCS.*.*
+DOMAIN-WILDCARD,DC._msDCS.*.*
+DOMAIN-WILDCARD,GC._msDCS.*.*
+DOMAIN-WILDCARD,*.router.asus.com
+
+# NTP
+DOMAIN,time1.cloud.tencent.com
+DOMAIN-WILDCARD,time.*.edu.cn
+DOMAIN-WILDCARD,*.time.edu.cn
+DOMAIN-WILDCARD,*.ntp.org.cn
+DOMAIN,ntp.aliyun.com
+DOMAIN,ntp1.aliyun.com
+DOMAIN,ntp2.aliyun.com
+DOMAIN,ntp3.aliyun.com
+DOMAIN,ntp4.aliyun.com
+DOMAIN,ntp5.aliyun.com
+DOMAIN,ntp6.aliyun.com
+DOMAIN,ntp7.aliyun.com
+DOMAIN,ntp.tencent.com
+DOMAIN,ntp1.tencent.com
+DOMAIN,ntp2.tencent.com
+DOMAIN,ntp3.tencent.com
+DOMAIN,ntp4.tencent.com
+DOMAIN,ntp5.tencent.com
+DOMAIN,ntp6.tencent.com
+DOMAIN,ntp7.tencent.com
+DOMAIN,cn.pool.ntp.org
+
+# 运营商一键登录
+DOMAIN,id6.me
+DOMAIN,open.e.189.cn
+DOMAIN,hmrz.wo.cn
+DOMAIN,nishub1.10010.com
+DOMAIN,enrichgw.10010.com
+DOMAIN-WILDCARD,*.cmpassport.com
+DOMAIN-WILDCARD,*.wosms.cn
+
+# 金融/生活
+DOMAIN,app.yinxiang.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-WILDCARD,*.pingan.com.cn
+DOMAIN-WILDCARD,*.10099.com.cn
+DOMAIN-WILDCARD,*.microdone.cn
+DOMAIN-WILDCARD,*.jegotrip.com.cn
+
+# QQ/微信登录
+DOMAIN,localhost.ptlogin2.qq.com
+DOMAIN,localhost.sec.qq.com
+DOMAIN-WILDCARD,localhost.*.weixin.qq.com
+
+# 网易云音乐
+DOMAIN,music.163.com
+DOMAIN-WILDCARD,*.music.163.com
+DOMAIN-WILDCARD,*.126.net
+
+# 百度音乐
+DOMAIN,music.taihe.com
+
+# 酷狗音乐
+DOMAIN,songsearch.kugou.com
+DOMAIN,trackercdn.kugou.com
+
+# 酷我音乐
+DOMAIN-WILDCARD,*.kuwo.cn
+
+# QQ音乐
+DOMAIN,y.qq.com
+DOMAIN,streamoc.music.tc.qq.com
+DOMAIN,mobileoc.music.tc.qq.com
+DOMAIN,isure.stream.qqmusic.qq.com
+DOMAIN,dl.stream.qq.com
+DOMAIN,aqqmusic.tc.qq.com
+DOMAIN-WILDCARD,*.y.qq.com
+
+# 虾米音乐
+DOMAIN-WILDCARD,*.xiami.com
+
+# 咪咕音乐
+DOMAIN,music.migu.cn
+DOMAIN-WILDCARD,*.music.migu.cn
+
+# 游戏国服
+DOMAIN,ff.dorado.sdo.com
+DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,wotgame.cn
+DOMAIN-SUFFIX,wggames.cn
+DOMAIN-SUFFIX,wowsgame.cn
+DOMAIN-SUFFIX,gcloudcs.com
+DOMAIN-SUFFIX,gcloudsdk.com
+DOMAIN-WILDCARD,*.blzstatic.cn
+DOMAIN-WILDCARD,*.ff14.sdo.com
+
+# Apple 软件更新（国内 CDN）
+DOMAIN,mesu.apple.com
+DOMAIN,swscan.apple.com
+DOMAIN,swdownload.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,swdist.apple.com
+
+# Bilibili
+DOMAIN-WILDCARD,*.mcdn.bilivideo.cn
+
+# 迅雷
+DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,n0808.com
+
+# UU 加速器
+DOMAIN,ps.res.netease.com
+DOMAIN-SUFFIX,uu.163.com
+
+# 小米
+DOMAIN-SUFFIX,market.xiaomi.com
+
+# 花生壳
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,orayimg.com
+
+# STUN 国内
+DOMAIN-WILDCARD,*.stun.*.cn
+DOMAIN-WILDCARD,*.stun.*.*.cn
+DOMAIN-WILDCARD,*.stun.*.*.*.cn
+DOMAIN-WILDCARD,*.stun.*.*.*.*.cn
+DOMAIN-WILDCARD,stun.*.cn
+DOMAIN-WILDCARD,stun.*.*.cn
+
+# Steam 国内 CDN
+DOMAIN,alibaba.cdn.steampipe.steamcontent.com
